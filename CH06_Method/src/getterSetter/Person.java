@@ -6,7 +6,7 @@ public class Person {
 	private int age;
 
 	// get, set 메소드로 변수에 접근
-	void setName(String name) {
+	public void setName(String name) {
 		this.name = name;
 	}
 
